@@ -1,0 +1,22 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box; }
+
+.navbar {
+  background-color: #343a40; }
+  .navbar .navbar-brand {
+    color: #ffffff;
+    cursor: pointer; }
+
+main {
+  background-image: url("../Assets/background.jpg"); }
+
+footer {
+  text-align: center; }
+  footer div {
+    padding: 1em;
+    color: #ffffff;
+    background-color: #343a40; }
+
+/*# sourceMappingURL=Style.css.map */

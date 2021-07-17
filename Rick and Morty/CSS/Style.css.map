@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACG,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;;ACH1B,OAAO;EACH,gBAAgB,ECAH,OAAO;EDCpB,qBAAa;IACT,KAAK,ECHL,OAAO;IDIP,MAAM,EAAE,OAAO;;AEJvB,IAAI;EACA,gBAAgB,EAAE,+BAA+B;;ACDrD,MAAM;EAGF,UAAU,EAAE,MAAM;EAElB,UAAG;IACH,OAAO,EAAE,GAAG;IACZ,KAAK,EFPD,OAAO;IEQX,gBAAgB,EFPH,OAAO",
+"sources": ["../SASS/Style.scss","../SASS/_header.scss","../SASS/_variables.scss","../SASS/_main.scss","../SASS/_footer.scss"],
+"names": [],
+"file": "Style.css"
+}
